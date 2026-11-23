@@ -1,0 +1,289 @@
+[
+  {
+    "auth_user_id": "dummy-user-6100001",
+    "associate_id": "6100001",
+    "application_roles": [
+      "admin",
+      "manager",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100002",
+    "associate_id": "6100002",
+    "application_roles": [
+      "admin",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100003",
+    "associate_id": "6100003",
+    "application_roles": [
+      "admin",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100004",
+    "associate_id": "6100004",
+    "application_roles": [
+      "manager",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100005",
+    "associate_id": "6100005",
+    "application_roles": [
+      "manager",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100006",
+    "associate_id": "6100006",
+    "application_roles": [
+      "manager"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100007",
+    "associate_id": "6100007",
+    "application_roles": [
+      "manager",
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100008",
+    "associate_id": "6100008",
+    "application_roles": [
+      "manager"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100009",
+    "associate_id": "6100009",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100010",
+    "associate_id": "6100010",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100011",
+    "associate_id": "6100011",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100012",
+    "associate_id": "6100012",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100013",
+    "associate_id": "6100013",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100014",
+    "associate_id": "6100014",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100015",
+    "associate_id": "6100015",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100016",
+    "associate_id": "6100016",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100017",
+    "associate_id": "6100017",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100018",
+    "associate_id": "6100018",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100019",
+    "associate_id": "6100019",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100020",
+    "associate_id": "6100020",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100021",
+    "associate_id": "6100021",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100022",
+    "associate_id": "6100022",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100023",
+    "associate_id": "6100023",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100024",
+    "associate_id": "6100024",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100025",
+    "associate_id": "6100025",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100026",
+    "associate_id": "6100026",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100027",
+    "associate_id": "6100027",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100028",
+    "associate_id": "6100028",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100029",
+    "associate_id": "6100029",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100030",
+    "associate_id": "6100030",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100031",
+    "associate_id": "6100031",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100032",
+    "associate_id": "6100032",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100033",
+    "associate_id": "6100033",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100034",
+    "associate_id": "6100034",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100035",
+    "associate_id": "6100035",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100036",
+    "associate_id": "6100036",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100037",
+    "associate_id": "6100037",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100038",
+    "associate_id": "6100038",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100039",
+    "associate_id": "6100039",
+    "application_roles": [
+      "associate"
+    ]
+  },
+  {
+    "auth_user_id": "dummy-user-6100040",
+    "associate_id": "6100040",
+    "application_roles": [
+      "associate"
+    ]
+  }
+]

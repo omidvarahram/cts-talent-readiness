@@ -1,0 +1,79 @@
+[
+  {
+    "approval_request_id": "APR-6100003-01",
+    "request_type": "skill",
+    "associate_id": "6100003",
+    "skill_id": "ASK-6100003-01",
+    "reviewer_id": "6100001",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100009-01",
+    "request_type": "skill",
+    "associate_id": "6100009",
+    "skill_id": "ASK-6100009-01",
+    "reviewer_id": "6100004",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100015-01",
+    "request_type": "skill",
+    "associate_id": "6100015",
+    "skill_id": "ASK-6100015-01",
+    "reviewer_id": "6100005",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100021-01",
+    "request_type": "skill",
+    "associate_id": "6100021",
+    "skill_id": "ASK-6100021-01",
+    "reviewer_id": "6100006",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100027-01",
+    "request_type": "skill",
+    "associate_id": "6100027",
+    "skill_id": "ASK-6100027-01",
+    "reviewer_id": "6100007",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100033-01",
+    "request_type": "skill",
+    "associate_id": "6100033",
+    "skill_id": "ASK-6100033-01",
+    "reviewer_id": "6100008",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  },
+  {
+    "approval_request_id": "APR-6100039-01",
+    "request_type": "skill",
+    "associate_id": "6100039",
+    "skill_id": "ASK-6100039-01",
+    "reviewer_id": "6100004",
+    "status": "pending",
+    "date_submitted": "2026-11-20",
+    "reviewed_at": null,
+    "rejection_reason": null
+  }
+]

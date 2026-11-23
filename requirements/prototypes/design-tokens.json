@@ -1,0 +1,23 @@
+{
+  "font_family": [
+    "Poppins",
+    "Segoe UI",
+    "Arial",
+    "sans-serif"
+  ],
+  "colors": {
+    "navy": "#080541",
+    "page_background": "#eff7ff",
+    "surface": "#ffffff",
+    "muted": "#60646c",
+    "blue": "#246fc0",
+    "border": "#89b6ff",
+    "purple": "#7770d8",
+    "purple_dark": "#35318f",
+    "cyan": "#20dce3",
+    "mint": "#c7edb5",
+    "yellow": "#f3e846"
+  },
+  "radius_px": 10,
+  "content_width_px": 1428
+}

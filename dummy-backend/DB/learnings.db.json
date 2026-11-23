@@ -1,0 +1,173 @@
+[
+  {
+    "learning_code": "LRN-001",
+    "subject": "Engineering Foundations",
+    "seniority_level": "foundation",
+    "target_associate_roles": [
+      "associate"
+    ],
+    "skills": [
+      "TypeScript",
+      "Git"
+    ],
+    "description": "Practical learning and assessment covering engineering foundations.",
+    "estimated_hours": 8,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-002",
+    "subject": "Automated Testing Essentials",
+    "seniority_level": "foundation",
+    "target_associate_roles": [
+      "associate",
+      "senior_associate"
+    ],
+    "skills": [
+      "Testing",
+      "TypeScript"
+    ],
+    "description": "Practical learning and assessment covering automated testing essentials.",
+    "estimated_hours": 10,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-003",
+    "subject": "React Application Engineering",
+    "seniority_level": "intermediate",
+    "target_associate_roles": [
+      "associate",
+      "senior_associate"
+    ],
+    "skills": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Practical learning and assessment covering react application engineering.",
+    "estimated_hours": 12,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-004",
+    "subject": "Backend APIs and Data Modelling",
+    "seniority_level": "intermediate",
+    "target_associate_roles": [
+      "associate",
+      "senior_associate"
+    ],
+    "skills": [
+      "Node.js",
+      "SQL"
+    ],
+    "description": "Practical learning and assessment covering backend apis and data modelling.",
+    "estimated_hours": 14,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-005",
+    "subject": "Cloud Architecture Fundamentals",
+    "seniority_level": "intermediate",
+    "target_associate_roles": [
+      "senior_associate",
+      "lead_engineer",
+      "technology_architect"
+    ],
+    "skills": [
+      "AWS",
+      "Architecture"
+    ],
+    "description": "Practical learning and assessment covering cloud architecture fundamentals.",
+    "estimated_hours": 16,
+    "certificate_required": true,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-006",
+    "subject": "Distributed Systems and Event Driven Design",
+    "seniority_level": "advanced",
+    "target_associate_roles": [
+      "lead_engineer",
+      "technology_architect"
+    ],
+    "skills": [
+      "Distributed Systems",
+      "Architecture"
+    ],
+    "description": "Practical learning and assessment covering distributed systems and event driven design.",
+    "estimated_hours": 18,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-007",
+    "subject": "Enterprise Security Architecture",
+    "seniority_level": "advanced",
+    "target_associate_roles": [
+      "lead_engineer",
+      "technology_architect"
+    ],
+    "skills": [
+      "Security",
+      "Architecture"
+    ],
+    "description": "Practical learning and assessment covering enterprise security architecture.",
+    "estimated_hours": 20,
+    "certificate_required": true,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-008",
+    "subject": "Technical Leadership and Mentoring",
+    "seniority_level": "advanced",
+    "target_associate_roles": [
+      "lead_engineer",
+      "technology_architect",
+      "delivery_lead"
+    ],
+    "skills": [
+      "Leadership",
+      "Mentoring"
+    ],
+    "description": "Practical learning and assessment covering technical leadership and mentoring.",
+    "estimated_hours": 22,
+    "certificate_required": false,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-009",
+    "subject": "Delivery Planning and Risk Management",
+    "seniority_level": "leadership",
+    "target_associate_roles": [
+      "delivery_lead",
+      "manager_projects"
+    ],
+    "skills": [
+      "Delivery Management",
+      "Risk Management"
+    ],
+    "description": "Practical learning and assessment covering delivery planning and risk management.",
+    "estimated_hours": 24,
+    "certificate_required": true,
+    "is_active": true
+  },
+  {
+    "learning_code": "LRN-010",
+    "subject": "People Management and Coaching",
+    "seniority_level": "leadership",
+    "target_associate_roles": [
+      "delivery_lead",
+      "manager_projects"
+    ],
+    "skills": [
+      "People Management",
+      "Coaching"
+    ],
+    "description": "Practical learning and assessment covering people management and coaching.",
+    "estimated_hours": 26,
+    "certificate_required": false,
+    "is_active": true
+  }
+]

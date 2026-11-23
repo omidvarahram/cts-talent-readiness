@@ -1,0 +1,3834 @@
+[
+  {
+    "associate_id": "6100001",
+    "auth_user_id": "dummy-user-6100001",
+    "associate_name": "Alex Morgan",
+    "associate_email": "alex.morgan@example.com",
+    "associate_group": "ssd",
+    "associate_role": "technology_architect",
+    "date_join": "2016-01-10",
+    "associate_manager": null,
+    "associate_direct_reports": [
+      "6100002",
+      "6100003",
+      "6100004",
+      "6100005",
+      "6100006",
+      "6100007",
+      "6100008"
+    ],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100001-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100001-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100001-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100001-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100001-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100001-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0001",
+      "LA-0002",
+      "LA-0003",
+      "LA-0004"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100002",
+    "auth_user_id": "dummy-user-6100002",
+    "associate_name": "Priya Sharma",
+    "associate_email": "priya.sharma@example.com",
+    "associate_group": "fsd",
+    "associate_role": "senior_associate",
+    "date_join": "2017-02-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100002-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100002-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "assigned",
+      "assignment_code": "CLIENT-002",
+      "start_date": "2026-08-01",
+      "end_date": "2027-06-30",
+      "assignment_role": "senior associate",
+      "billing_code": "BILL-002"
+    },
+    "learning_assignments": [],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100003",
+    "auth_user_id": "dummy-user-6100003",
+    "associate_name": "Daniel Chen",
+    "associate_email": "daniel.chen@example.com",
+    "associate_group": "pmp",
+    "associate_role": "lead_engineer",
+    "date_join": "2018-03-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100003-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-03-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100003-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100003-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100003-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100003-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100003-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0005",
+      "LA-0006",
+      "LA-0007",
+      "LA-0008"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100004",
+    "auth_user_id": "dummy-user-6100004",
+    "associate_name": "Sophie Taylor",
+    "associate_email": "sophie.taylor@example.com",
+    "associate_group": "ssd",
+    "associate_role": "delivery_lead",
+    "date_join": "2019-04-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [
+      "6100009",
+      "6100014",
+      "6100019",
+      "6100024",
+      "6100029",
+      "6100034",
+      "6100039"
+    ],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100004-01",
+        "skill_code": "SKL-003",
+        "title": "Coaching",
+        "description": "Used Coaching in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100004-02",
+        "skill_code": "SKL-004",
+        "title": "Delivery Management",
+        "description": "Used Delivery Management in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100004-03",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100004-04",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100004-05",
+        "skill_code": "SKL-010",
+        "title": "People Management",
+        "description": "Used People Management in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100004-06",
+        "skill_code": "SKL-012",
+        "title": "Risk Management",
+        "description": "Used Risk Management in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0009",
+      "LA-0010",
+      "LA-0011"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100005",
+    "auth_user_id": "dummy-user-6100005",
+    "associate_name": "Omar Hassan",
+    "associate_email": "omar.hassan@example.com",
+    "associate_group": "fsd",
+    "associate_role": "delivery_lead",
+    "date_join": "2020-05-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [
+      "6100010",
+      "6100015",
+      "6100020",
+      "6100025",
+      "6100030",
+      "6100035",
+      "6100040"
+    ],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100005-01",
+        "skill_code": "SKL-003",
+        "title": "Coaching",
+        "description": "Used Coaching in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100005-02",
+        "skill_code": "SKL-004",
+        "title": "Delivery Management",
+        "description": "Used Delivery Management in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100005-03",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100005-04",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100005-05",
+        "skill_code": "SKL-010",
+        "title": "People Management",
+        "description": "Used People Management in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100005-06",
+        "skill_code": "SKL-012",
+        "title": "Risk Management",
+        "description": "Used Risk Management in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 1,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0012",
+      "LA-0013",
+      "LA-0014"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100006",
+    "auth_user_id": "dummy-user-6100006",
+    "associate_name": "Grace Wilson",
+    "associate_email": "grace.wilson@example.com",
+    "associate_group": "pmp",
+    "associate_role": "manager_projects",
+    "date_join": "2021-06-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [
+      "6100011",
+      "6100016",
+      "6100021",
+      "6100026",
+      "6100031",
+      "6100036"
+    ],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100006-01",
+        "skill_code": "SKL-003",
+        "title": "Coaching",
+        "description": "Used Coaching in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100006-02",
+        "skill_code": "SKL-004",
+        "title": "Delivery Management",
+        "description": "Used Delivery Management in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100006-03",
+        "skill_code": "SKL-010",
+        "title": "People Management",
+        "description": "Used People Management in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100006-04",
+        "skill_code": "SKL-012",
+        "title": "Risk Management",
+        "description": "Used Risk Management in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "assigned",
+      "assignment_code": "CLIENT-006",
+      "start_date": "2026-08-01",
+      "end_date": "2027-06-30",
+      "assignment_role": "manager projects",
+      "billing_code": "BILL-006"
+    },
+    "learning_assignments": [],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100007",
+    "auth_user_id": "dummy-user-6100007",
+    "associate_name": "Liam Nguyen",
+    "associate_email": "liam.nguyen@example.com",
+    "associate_group": "ssd",
+    "associate_role": "manager_projects",
+    "date_join": "2022-07-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [
+      "6100012",
+      "6100017",
+      "6100022",
+      "6100027",
+      "6100032",
+      "6100037"
+    ],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100007-01",
+        "skill_code": "SKL-003",
+        "title": "Coaching",
+        "description": "Used Coaching in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100007-02",
+        "skill_code": "SKL-004",
+        "title": "Delivery Management",
+        "description": "Used Delivery Management in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100007-03",
+        "skill_code": "SKL-010",
+        "title": "People Management",
+        "description": "Used People Management in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100007-04",
+        "skill_code": "SKL-012",
+        "title": "Risk Management",
+        "description": "Used Risk Management in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 1,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "assigned",
+      "assignment_code": "CLIENT-007",
+      "start_date": "2026-08-01",
+      "end_date": "2027-06-30",
+      "assignment_role": "manager projects",
+      "billing_code": "BILL-007"
+    },
+    "learning_assignments": [],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100008",
+    "auth_user_id": "dummy-user-6100008",
+    "associate_name": "Amelia Patel",
+    "associate_email": "amelia.patel@example.com",
+    "associate_group": "fsd",
+    "associate_role": "manager_projects",
+    "date_join": "2023-08-10",
+    "associate_manager": "6100001",
+    "associate_direct_reports": [
+      "6100013",
+      "6100018",
+      "6100023",
+      "6100028",
+      "6100033",
+      "6100038"
+    ],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100008-01",
+        "skill_code": "SKL-003",
+        "title": "Coaching",
+        "description": "Used Coaching in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100008-02",
+        "skill_code": "SKL-004",
+        "title": "Delivery Management",
+        "description": "Used Delivery Management in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100008-03",
+        "skill_code": "SKL-010",
+        "title": "People Management",
+        "description": "Used People Management in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 1,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100008-04",
+        "skill_code": "SKL-012",
+        "title": "Risk Management",
+        "description": "Used Risk Management in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 2,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "assigned",
+      "assignment_code": "CLIENT-008",
+      "start_date": "2026-08-01",
+      "end_date": "2027-06-30",
+      "assignment_role": "manager projects",
+      "billing_code": "BILL-008"
+    },
+    "learning_assignments": [],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100009",
+    "auth_user_id": "dummy-user-6100009",
+    "associate_name": "Noah Williams",
+    "associate_email": "noah.williams@example.com",
+    "associate_group": "pmp",
+    "associate_role": "associate",
+    "date_join": "2024-09-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100009-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-09-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100009-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 1,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100009-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 2,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100009-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 3,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100009-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 4,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100009-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0015",
+      "LA-0016",
+      "LA-0017",
+      "LA-0018"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100010",
+    "auth_user_id": "dummy-user-6100010",
+    "associate_name": "Isla Thompson",
+    "associate_email": "isla.thompson@example.com",
+    "associate_group": "ssd",
+    "associate_role": "senior_associate",
+    "date_join": "2025-10-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100010-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 1,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 2,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 3,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 4,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100010-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0019",
+      "LA-0020",
+      "LA-0021",
+      "LA-0022"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100011",
+    "auth_user_id": "dummy-user-6100011",
+    "associate_name": "Ethan Lee",
+    "associate_email": "ethan.lee@example.com",
+    "associate_group": "fsd",
+    "associate_role": "lead_engineer",
+    "date_join": "2016-11-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100011-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 2,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100011-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 3,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100011-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 4,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100011-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100011-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100011-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0023",
+      "LA-0024",
+      "LA-0025",
+      "LA-0026"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100012",
+    "auth_user_id": "dummy-user-6100012",
+    "associate_name": "Mia Robinson",
+    "associate_email": "mia.robinson@example.com",
+    "associate_group": "pmp",
+    "associate_role": "technology_architect",
+    "date_join": "2017-12-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100012-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 3,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100012-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 4,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100012-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100012-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100012-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100012-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0027",
+      "LA-0028",
+      "LA-0029",
+      "LA-0030"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100013",
+    "auth_user_id": "dummy-user-6100013",
+    "associate_name": "Lucas Martin",
+    "associate_email": "lucas.martin@example.com",
+    "associate_group": "ssd",
+    "associate_role": "associate",
+    "date_join": "2018-01-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100013-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 4,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100013-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100013-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100013-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100013-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100013-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0031",
+      "LA-0032",
+      "LA-0033",
+      "LA-0034"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100014",
+    "auth_user_id": "dummy-user-6100014",
+    "associate_name": "Ava Singh",
+    "associate_email": "ava.singh@example.com",
+    "associate_group": "fsd",
+    "associate_role": "senior_associate",
+    "date_join": "2019-02-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100014-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 5,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100014-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0035",
+      "LA-0036",
+      "LA-0037",
+      "LA-0038"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100015",
+    "auth_user_id": "dummy-user-6100015",
+    "associate_name": "Oliver Brown",
+    "associate_email": "oliver.brown@example.com",
+    "associate_group": "pmp",
+    "associate_role": "lead_engineer",
+    "date_join": "2020-03-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100015-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 6,
+        "last_used": "2026-05-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100015-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100015-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100015-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100015-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100015-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0039",
+      "LA-0040",
+      "LA-0041",
+      "LA-0042"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100016",
+    "auth_user_id": "dummy-user-6100016",
+    "associate_name": "Chloe Anderson",
+    "associate_email": "chloe.anderson@example.com",
+    "associate_group": "ssd",
+    "associate_role": "technology_architect",
+    "date_join": "2021-04-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100016-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 7,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100016-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100016-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100016-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100016-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100016-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0043",
+      "LA-0044",
+      "LA-0045",
+      "LA-0046"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100017",
+    "auth_user_id": "dummy-user-6100017",
+    "associate_name": "Jack Thomas",
+    "associate_email": "jack.thomas@example.com",
+    "associate_group": "fsd",
+    "associate_role": "associate",
+    "date_join": "2022-05-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100017-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 8,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100017-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100017-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100017-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100017-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100017-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0047",
+      "LA-0048",
+      "LA-0049",
+      "LA-0050"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100018",
+    "auth_user_id": "dummy-user-6100018",
+    "associate_name": "Zoe Harris",
+    "associate_email": "zoe.harris@example.com",
+    "associate_group": "pmp",
+    "associate_role": "senior_associate",
+    "date_join": "2023-06-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100018-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 9,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100018-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0051",
+      "LA-0052",
+      "LA-0053",
+      "LA-0054"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100019",
+    "auth_user_id": "dummy-user-6100019",
+    "associate_name": "Henry Walker",
+    "associate_email": "henry.walker@example.com",
+    "associate_group": "ssd",
+    "associate_role": "lead_engineer",
+    "date_join": "2024-07-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100019-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 1,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100019-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100019-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100019-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100019-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100019-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0055",
+      "LA-0056",
+      "LA-0057",
+      "LA-0058"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100020",
+    "auth_user_id": "dummy-user-6100020",
+    "associate_name": "Layla Ahmed",
+    "associate_email": "layla.ahmed@example.com",
+    "associate_group": "fsd",
+    "associate_role": "technology_architect",
+    "date_join": "2025-08-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100020-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 2,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100020-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100020-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100020-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100020-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100020-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0059",
+      "LA-0060",
+      "LA-0061",
+      "LA-0062"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100021",
+    "auth_user_id": "dummy-user-6100021",
+    "associate_name": "Leo White",
+    "associate_email": "leo.white@example.com",
+    "associate_group": "pmp",
+    "associate_role": "associate",
+    "date_join": "2016-09-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100021-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 3,
+        "last_used": "2026-01-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100021-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100021-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100021-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100021-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100021-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0063",
+      "LA-0064",
+      "LA-0065",
+      "LA-0066"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100022",
+    "auth_user_id": "dummy-user-6100022",
+    "associate_name": "Ruby Clark",
+    "associate_email": "ruby.clark@example.com",
+    "associate_group": "ssd",
+    "associate_role": "senior_associate",
+    "date_join": "2017-10-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100022-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 4,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100022-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0067",
+      "LA-0068",
+      "LA-0069",
+      "LA-0070"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100023",
+    "auth_user_id": "dummy-user-6100023",
+    "associate_name": "Arjun Mehta",
+    "associate_email": "arjun.mehta@example.com",
+    "associate_group": "fsd",
+    "associate_role": "lead_engineer",
+    "date_join": "2018-11-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100023-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 5,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100023-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100023-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100023-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100023-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100023-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0071",
+      "LA-0072",
+      "LA-0073",
+      "LA-0074"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100024",
+    "auth_user_id": "dummy-user-6100024",
+    "associate_name": "Emily Lewis",
+    "associate_email": "emily.lewis@example.com",
+    "associate_group": "pmp",
+    "associate_role": "technology_architect",
+    "date_join": "2019-12-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100024-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 6,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100024-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100024-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100024-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100024-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100024-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0075",
+      "LA-0076",
+      "LA-0077",
+      "LA-0078"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100025",
+    "auth_user_id": "dummy-user-6100025",
+    "associate_name": "Oscar Young",
+    "associate_email": "oscar.young@example.com",
+    "associate_group": "ssd",
+    "associate_role": "associate",
+    "date_join": "2020-01-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100025-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 7,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100025-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100025-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100025-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100025-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100025-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0079",
+      "LA-0080",
+      "LA-0081",
+      "LA-0082"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100026",
+    "auth_user_id": "dummy-user-6100026",
+    "associate_name": "Hannah Scott",
+    "associate_email": "hannah.scott@example.com",
+    "associate_group": "fsd",
+    "associate_role": "senior_associate",
+    "date_join": "2021-02-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100026-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 8,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100026-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0083",
+      "LA-0084",
+      "LA-0085",
+      "LA-0086"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100027",
+    "auth_user_id": "dummy-user-6100027",
+    "associate_name": "Adam Ibrahim",
+    "associate_email": "adam.ibrahim@example.com",
+    "associate_group": "pmp",
+    "associate_role": "lead_engineer",
+    "date_join": "2022-03-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100027-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 9,
+        "last_used": "2026-07-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100027-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100027-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100027-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100027-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100027-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0087",
+      "LA-0088",
+      "LA-0089",
+      "LA-0090"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100028",
+    "auth_user_id": "dummy-user-6100028",
+    "associate_name": "Ella Green",
+    "associate_email": "ella.green@example.com",
+    "associate_group": "ssd",
+    "associate_role": "technology_architect",
+    "date_join": "2023-04-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100028-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 1,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100028-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100028-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100028-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100028-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100028-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0091",
+      "LA-0092",
+      "LA-0093",
+      "LA-0094"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100029",
+    "auth_user_id": "dummy-user-6100029",
+    "associate_name": "Max King",
+    "associate_email": "max.king@example.com",
+    "associate_group": "fsd",
+    "associate_role": "associate",
+    "date_join": "2024-05-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100029-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 2,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100029-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100029-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100029-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100029-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100029-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0095",
+      "LA-0096",
+      "LA-0097",
+      "LA-0098"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100030",
+    "auth_user_id": "dummy-user-6100030",
+    "associate_name": "Sarah Kim",
+    "associate_email": "sarah.kim@example.com",
+    "associate_group": "pmp",
+    "associate_role": "senior_associate",
+    "date_join": "2025-06-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100030-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 3,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100030-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0099",
+      "LA-0100",
+      "LA-0101",
+      "LA-0102"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100031",
+    "auth_user_id": "dummy-user-6100031",
+    "associate_name": "James Wright",
+    "associate_email": "james.wright@example.com",
+    "associate_group": "ssd",
+    "associate_role": "lead_engineer",
+    "date_join": "2016-07-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100031-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 4,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100031-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100031-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100031-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100031-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100031-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0103",
+      "LA-0104",
+      "LA-0105",
+      "LA-0106"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100032",
+    "auth_user_id": "dummy-user-6100032",
+    "associate_name": "Nina Silva",
+    "associate_email": "nina.silva@example.com",
+    "associate_group": "fsd",
+    "associate_role": "technology_architect",
+    "date_join": "2017-08-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100032-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 5,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100032-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100032-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100032-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100032-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100032-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0107",
+      "LA-0108",
+      "LA-0109",
+      "LA-0110"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100033",
+    "auth_user_id": "dummy-user-6100033",
+    "associate_name": "Benjamin Hall",
+    "associate_email": "benjamin.hall@example.com",
+    "associate_group": "pmp",
+    "associate_role": "associate",
+    "date_join": "2018-09-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100033-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 6,
+        "last_used": "2026-03-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100033-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100033-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100033-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100033-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100033-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0111",
+      "LA-0112",
+      "LA-0113",
+      "LA-0114"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100034",
+    "auth_user_id": "dummy-user-6100034",
+    "associate_name": "Freya Adams",
+    "associate_email": "freya.adams@example.com",
+    "associate_group": "ssd",
+    "associate_role": "senior_associate",
+    "date_join": "2019-10-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100034-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 7,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100034-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0115",
+      "LA-0116",
+      "LA-0117",
+      "LA-0118"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100035",
+    "auth_user_id": "dummy-user-6100035",
+    "associate_name": "Ryan Cooper",
+    "associate_email": "ryan.cooper@example.com",
+    "associate_group": "fsd",
+    "associate_role": "lead_engineer",
+    "date_join": "2020-11-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100035-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 8,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100035-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100035-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100035-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100035-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100035-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0119",
+      "LA-0120",
+      "LA-0121",
+      "LA-0122"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100036",
+    "auth_user_id": "dummy-user-6100036",
+    "associate_name": "Aisha Khan",
+    "associate_email": "aisha.khan@example.com",
+    "associate_group": "pmp",
+    "associate_role": "technology_architect",
+    "date_join": "2021-12-10",
+    "associate_manager": "6100006",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100036-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 9,
+        "last_used": "2026-06-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100036-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100036-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100036-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100036-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100036-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0123",
+      "LA-0124",
+      "LA-0125",
+      "LA-0126"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100037",
+    "auth_user_id": "dummy-user-6100037",
+    "associate_name": "Samuel Mitchell",
+    "associate_email": "samuel.mitchell@example.com",
+    "associate_group": "ssd",
+    "associate_role": "associate",
+    "date_join": "2022-01-10",
+    "associate_manager": "6100007",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100037-01",
+        "skill_code": "SKL-006",
+        "title": "Git",
+        "description": "Used Git in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 1,
+        "last_used": "2026-07-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100037-02",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100037-03",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100037-04",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100037-05",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100037-06",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0127",
+      "LA-0128",
+      "LA-0129",
+      "LA-0130"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100038",
+    "auth_user_id": "dummy-user-6100038",
+    "associate_name": "Lily Roberts",
+    "associate_email": "lily.roberts@example.com",
+    "associate_group": "fsd",
+    "associate_role": "senior_associate",
+    "date_join": "2023-02-10",
+    "associate_manager": "6100008",
+    "associate_direct_reports": [],
+    "location": "AUS/SYD",
+    "skills": [
+      {
+        "skill_id": "ASK-6100038-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 2,
+        "last_used": "2026-08-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-03",
+        "skill_code": "SKL-009",
+        "title": "Node.js",
+        "description": "Used Node.js in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-04",
+        "skill_code": "SKL-011",
+        "title": "React",
+        "description": "Used React in a synthetic FSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-05",
+        "skill_code": "SKL-013",
+        "title": "SQL",
+        "description": "Used SQL in a synthetic FSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-06",
+        "skill_code": "SKL-015",
+        "title": "Testing",
+        "description": "Used Testing in a synthetic FSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100038-07",
+        "skill_code": "SKL-016",
+        "title": "TypeScript",
+        "description": "Used TypeScript in a synthetic FSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0131",
+      "LA-0132",
+      "LA-0133",
+      "LA-0134"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100039",
+    "auth_user_id": "dummy-user-6100039",
+    "associate_name": "Dylan Evans",
+    "associate_email": "dylan.evans@example.com",
+    "associate_group": "pmp",
+    "associate_role": "lead_engineer",
+    "date_join": "2024-03-10",
+    "associate_manager": "6100004",
+    "associate_direct_reports": [],
+    "location": "AUS/BRIS",
+    "skills": [
+      {
+        "skill_id": "ASK-6100039-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 3,
+        "last_used": "2026-09-15",
+        "approval_status": "pending",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100039-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100039-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic PMP delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100039-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic PMP delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100039-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic PMP delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100039-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic PMP delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-09-01"
+    },
+    "learning_assignments": [
+      "LA-0135",
+      "LA-0136",
+      "LA-0137",
+      "LA-0138"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  },
+  {
+    "associate_id": "6100040",
+    "auth_user_id": "dummy-user-6100040",
+    "associate_name": "Mei Tan",
+    "associate_email": "mei.tan@example.com",
+    "associate_group": "ssd",
+    "associate_role": "technology_architect",
+    "date_join": "2025-04-10",
+    "associate_manager": "6100005",
+    "associate_direct_reports": [],
+    "location": "AUS/MEL",
+    "skills": [
+      {
+        "skill_id": "ASK-6100040-01",
+        "skill_code": "SKL-001",
+        "title": "AWS",
+        "description": "Used AWS in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 4,
+        "last_used": "2026-10-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100040-02",
+        "skill_code": "SKL-002",
+        "title": "Architecture",
+        "description": "Used Architecture in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 5,
+        "last_used": "2026-01-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100040-03",
+        "skill_code": "SKL-005",
+        "title": "Distributed Systems",
+        "description": "Used Distributed Systems in a synthetic SSD delivery project.",
+        "expertise": "intermediate",
+        "years_of_experience": 6,
+        "last_used": "2026-02-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100040-04",
+        "skill_code": "SKL-007",
+        "title": "Leadership",
+        "description": "Used Leadership in a synthetic SSD delivery project.",
+        "expertise": "advanced",
+        "years_of_experience": 7,
+        "last_used": "2026-03-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100040-05",
+        "skill_code": "SKL-008",
+        "title": "Mentoring",
+        "description": "Used Mentoring in a synthetic SSD delivery project.",
+        "expertise": "expert",
+        "years_of_experience": 8,
+        "last_used": "2026-04-15",
+        "approval_status": "approved",
+        "evidence": null
+      },
+      {
+        "skill_id": "ASK-6100040-06",
+        "skill_code": "SKL-014",
+        "title": "Security",
+        "description": "Used Security in a synthetic SSD delivery project.",
+        "expertise": "beginner",
+        "years_of_experience": 9,
+        "last_used": "2026-05-15",
+        "approval_status": "approved",
+        "evidence": null
+      }
+    ],
+    "associate_status": {
+      "status": "on_bench",
+      "unassigned_start_date": "2026-10-01"
+    },
+    "learning_assignments": [
+      "LA-0139",
+      "LA-0140",
+      "LA-0141",
+      "LA-0142"
+    ],
+    "is_active": true,
+    "date_leave": null,
+    "created_at": "2026-11-20T00:00:00Z",
+    "updated_at": "2026-11-20T00:00:00Z"
+  }
+]

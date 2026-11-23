@@ -1,0 +1,66 @@
+[
+  {
+    "skill_code": "SKL-001",
+    "title": "AWS"
+  },
+  {
+    "skill_code": "SKL-002",
+    "title": "Architecture"
+  },
+  {
+    "skill_code": "SKL-003",
+    "title": "Coaching"
+  },
+  {
+    "skill_code": "SKL-004",
+    "title": "Delivery Management"
+  },
+  {
+    "skill_code": "SKL-005",
+    "title": "Distributed Systems"
+  },
+  {
+    "skill_code": "SKL-006",
+    "title": "Git"
+  },
+  {
+    "skill_code": "SKL-007",
+    "title": "Leadership"
+  },
+  {
+    "skill_code": "SKL-008",
+    "title": "Mentoring"
+  },
+  {
+    "skill_code": "SKL-009",
+    "title": "Node.js"
+  },
+  {
+    "skill_code": "SKL-010",
+    "title": "People Management"
+  },
+  {
+    "skill_code": "SKL-011",
+    "title": "React"
+  },
+  {
+    "skill_code": "SKL-012",
+    "title": "Risk Management"
+  },
+  {
+    "skill_code": "SKL-013",
+    "title": "SQL"
+  },
+  {
+    "skill_code": "SKL-014",
+    "title": "Security"
+  },
+  {
+    "skill_code": "SKL-015",
+    "title": "Testing"
+  },
+  {
+    "skill_code": "SKL-016",
+    "title": "TypeScript"
+  }
+]
