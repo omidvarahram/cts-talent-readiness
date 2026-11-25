@@ -171,4 +171,4 @@ Validation errors share ApiError; field-level errors are a future extension. Lis
 
 server.test.mjs runs live loopback HTTP calls, checking every implemented read route, three identity scopes, missing/tampered/expired tokens, pagination/search validation, refused mutations and byte-hash equality of all DB files before/after requests. Tests passed in the available Node runtime. Native network, HTTPS/pinning and device connectivity remain unverified.
 
-See [OpenAPI JSON](openapi.json), [write contracts](write-contracts.md) and [architecture diagrams](../solution-design/09-system-design-and-diagrams.md).
+See [OpenAPI JSON](openapi.json), [write contracts](write-contracts.md) and [architecture diagrams](../docs/solution-design/09-system-design-and-diagrams.md).

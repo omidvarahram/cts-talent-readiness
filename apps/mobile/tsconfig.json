@@ -1,0 +1,15 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "@cts-talent/ui": ["../../packages/ui/src"],
+      "@cts-talent/ui/*": ["../../packages/ui/src/*"],
+      "@cts-talent/sdk": ["../../packages/sdk/src"],
+      "@cts-talent/sdk/*": ["../../packages/sdk/src/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", "App.tsx"]
+}

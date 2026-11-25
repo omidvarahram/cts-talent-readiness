@@ -1,0 +1,47 @@
+{
+  "name": "@cts-talent/sdk",
+  "version": "0.1.0",
+  "description": "Talent Readiness TypeScript SDK: auth, HTTP, config, session mutations",
+  "license": "UNLICENSED",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./react-native": {
+      "types": "./dist/react-native/index.d.ts",
+      "default": "./dist/react-native/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "prepack": "npm run build",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "peerDependencies": {
+    "expo-local-authentication": "*",
+    "expo-secure-store": "*"
+  },
+  "peerDependenciesMeta": {
+    "expo-local-authentication": { "optional": true },
+    "expo-secure-store": { "optional": true }
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "~5.6.3"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}

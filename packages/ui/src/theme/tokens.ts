@@ -1,0 +1,78 @@
+export type ThemeTokens = typeof tokens;
+
+export const tokens = {
+  colors: {
+    navy: '#080541',
+    pageBackground: '#eff7ff',
+    surface: '#ffffff',
+    surfaceMuted: '#f7faff',
+    text: '#12162f',
+    textOnDark: '#ffffff',
+    textMuted: '#60646c',
+    border: '#89b6ff',
+    primary: '#246fc0',
+    primarySubtle: '#dfeefe',
+    secondary: '#35318f',
+    accent: '#20dce3',
+    approved: '#2e8b57',
+    approvedSoft: '#dff4e8',
+    pending: '#c98b00',
+    pendingSoft: '#fff2cf',
+    rejected: '#c63d3d',
+    rejectedSoft: '#fde2e2',
+    drawer: 'rgba(8, 5, 65, 0.97)',
+    glass: 'rgba(8, 5, 65, 0.82)',
+    backdrop: 'rgba(8, 5, 65, 0.56)',
+    shadow: 'rgba(8, 5, 65, 0.16)',
+  },
+  spacing: {
+    xxs: 2,
+    xs: 4,
+    sm: 8,
+    md: 12,
+    lg: 16,
+    xl: 24,
+    xxl: 32,
+    xxxl: 40,
+  },
+  radius: {
+    sm: 6,
+    md: 10,
+    lg: 14,
+    xl: 20,
+    pill: 999,
+  },
+  typography: {
+    fontFamily: 'Poppins, Segoe UI, Arial, sans-serif',
+    sizes: {
+      xs: 12,
+      sm: 13,
+      md: 15,
+      lg: 17,
+      xl: 20,
+      xxl: 24,
+    },
+    lineHeights: {
+      sm: 18,
+      md: 22,
+      lg: 24,
+      xl: 28,
+      xxl: 32,
+    },
+    weights: {
+      regular: '400' as const,
+      medium: '500' as const,
+      semibold: '600' as const,
+      bold: '700' as const,
+    },
+  },
+  layout: {
+    pageMaxWidth: 1428,
+    touchTargetMin: 48,
+    loginButtonMinHeight: 54,
+    drawerWidthRatio: 0.6,
+    dividerWidth: 1,
+  },
+} as const;
+
+export type ThemeColorName = keyof ThemeTokens['colors'];
