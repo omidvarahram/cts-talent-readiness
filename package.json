@@ -1,0 +1,40 @@
+{
+  "name": "cts-talent-readiness",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CTS Talent Readiness learning monorepo: UI library, SDK and Expo mobile app",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "dummy-backend"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "lint": "eslint . --ext .ts,.tsx,.js,.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "npm run test --workspaces --if-present",
+    "test:coverage": "npm run test:coverage --workspace @cts-talent/sdk && npm run test:coverage --workspace @cts-talent/ui && npm run test:coverage --workspace talent-mobile",
+    "build": "npm run build --workspace @cts-talent/sdk && npm run build --workspace @cts-talent/ui",
+    "pack:libs": "npm run build && npm pack --workspace @cts-talent/sdk && npm pack --workspace @cts-talent/ui",
+    "backend": "npm start --workspace talent-readiness-dummy-api",
+    "ci": "npm run format:check && npm run lint && npm run typecheck && npm run test:coverage && npm test --workspace talent-readiness-dummy-api"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/react": "~18.3.12",
+    "@typescript-eslint/eslint-plugin": "^8.18.0",
+    "@typescript-eslint/parser": "^8.18.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.4.2",
+    "ts-jest": "^29.2.5",
+    "typescript": "~5.6.3"
+  }
+}

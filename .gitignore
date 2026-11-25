@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Builds and packs
+dist/
+build/
+*.tgz
+coverage/
+.turbo/
+
+# Expo / React Native
+apps/mobile/.expo/
+apps/mobile/dist/
+apps/mobile/web-build/
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*.orig.*
+android/
+ios/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+*.pem
+.npmrc.local
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.log
+npm-debug.log*
+
+# Cursor (local IDE / agent artifacts — never commit)
+.cursor/
+.cursorignore
+.cursorrules
+*.cursor/
+**/agent-transcripts/
+.cursor-tutor/
+
+# Test / cache
+.cache/
+.jest/
+tmp/
+temp/

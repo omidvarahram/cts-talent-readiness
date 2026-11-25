@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "configVersion": 1,
+  "environment": "local",
+  "issuedAt": "2026-11-24T00:00:00Z",
+  "expiresAt": "2026-12-31T00:00:00Z",
+  "minimumAppBuild": 1,
+  "featureFlags": {
+    "skills": true,
+    "learningAssignments": true,
+    "managerApprovals": true,
+    "adminRoleEditor": true
+  },
+  "features": {
+    "skills": true,
+    "learningAssignments": true,
+    "managerApprovals": true,
+    "adminRoleEditor": true
+  },
+  "labels": {
+    "applicationName": "CTS Talent Readiness",
+    "loginTitle": "Welcome back",
+    "addSkill": "Add skill"
+  },
+  "links": {
+    "companyPortal": "https://onecognizant.cognizant.com/"
+  },
+  "api": {
+    "pathPrefix": "/v1",
+    "timeoutMs": 15000,
+    "pageSize": 20
+  },
+  "uploads": {
+    "cvMaxBytes": 5242880,
+    "skillEvidenceMaxBytes": 5242880,
+    "avatarMaxBytes": 5242880
+  },
+  "topLevelReviewerAssociateId": "top-reviewer",
+  "allowlistedHosts": ["127.0.0.1", "10.0.2.2", "localhost"],
+  "pinningRequired": true
+}

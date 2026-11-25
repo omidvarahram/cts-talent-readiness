@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Talent Readiness",
+    "slug": "talent-readiness",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1F3A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ctstalent.readiness"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0B1F3A"
+      },
+      "package": "com.ctstalent.readiness"
+    },
+    "plugins": ["expo-secure-store", "expo-local-authentication"],
+    "extra": {
+      "apiBaseUrl": "http://10.0.2.2:3001",
+      "configUrl": "http://10.0.2.2:3001/config.json"
+    }
+  }
+}
